@@ -30,6 +30,9 @@ Recuerda que en una nota del escenario, ARRIBA A LA IZQUIERDA, debe aparecer SIE
 
 ## Instrucciones
 
+[PKT1](Examen-practicoUD3-ImparesSantiago%20QuirosArenas.pka)
+
+
 1. Abre el primer Packet Tracer que te corresponda: [pares](pt/Examen-practicoUD3-Pares.pka) o [impares](pt/Examen-practicoUD3-Impares.pka). Recuerda guardarlo con tu nombre y apellidos. En el Switch0:
    1. Asigna el nombre de host del switch: tuApellido2
    2. Configura el siguiente mensaje MOTD: IES Gran Capitán. tuApellido1 tuApellido2, tuNombre
