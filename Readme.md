@@ -37,6 +37,7 @@ Recuerda que en una nota del escenario, ARRIBA A LA IZQUIERDA, debe aparecer SIE
    4. Configure acceso seguro al switch por ssh. Mediante usuario y contraseña. Ambos deben ser tuApellido.
 2. Portátil
    1. Comprueba la conexión ssh con el Portátil. Entrega aquí pantallazo que lo demuestre.
+   2. - ![alt text](image-1.png)
 3. Ehterchannel
    1. Configura la agregación de puertos entre switch0 y switch 1. Crea el canal 1 con los cuatro interfaces del escenario. Cambia el balanceo de carga por defecto
 4. Switch 1
@@ -49,8 +50,9 @@ Recuerda que en una nota del escenario, ARRIBA A LA IZQUIERDA, debe aparecer SIE
    5. Entrega aquí pantallazo que lo demuestre.
 5. Abre el segundo Packet Tracer sobre Spanning Tree que te corresponda: [pares](pt/Examen-practicoUD3-STP-Pares.pka) o [impares](pt/Examen-practicoUD3-STP-Impares.pka). Recuerda guardarlo con tu nombre y apellidos. 
    1. Localiza la raíz que se genera de forma automática. Cámbiale el nombre del host a raiz-tuNombre.  Entrega aquí pantallazo que lo demuestre.
-   2. Establece el switch 0 como raíz primaria. Indica en la nota adjunta por qué es el idóneo.
-   3. Designa al switch 3 como raíz secundaria.  Entrega aquí pantallazo que lo demuestre.
-   4. Activa el enlace entre el switch 0 y el switch 4 para que el switch 4 alcance la raíz directamente por el puerto Fa0/5. Entrega aquí pantallazo que lo demuestre.
+          - ![alt text](image.png)
+   3. Establece el switch 0 como raíz primaria. Indica en la nota adjunta por qué es el idóneo.
+   4. Designa al switch 3 como raíz secundaria.  Entrega aquí pantallazo que lo demuestre.
+   5. Activa el enlace entre el switch 0 y el switch 4 para que el switch 4 alcance la raíz directamente por el puerto Fa0/5. Entrega aquí pantallazo que lo demuestre.
 6. Al finalizar ambos escenarios se comprobará la comunicación entre los dispositivos finales del escenario. Indica con una nota la dirección ip asignada a cada uno, así como el usuario y la contraseña.
 7. Recuerda que toda la configuración deberá mantenerse tras arrancarse los dispositivos.
